@@ -3,7 +3,7 @@ import YourBotArmy from "./YourBotArmy";
 import BotCollection from "./BotCollection";
 
 function BotsPage() {
-  //start here with your code for step one
+  //start here with your code for step 
 
   return (
     <div>
